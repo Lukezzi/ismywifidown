@@ -1,2 +1,5 @@
-# ismywifidown
-Is your Wi-Fi down? Well check out this site to find out!
+<html>
+  <body>
+    <h1>Your Wi-Fi is not down!</h1>
+  </body>
+</html>
